@@ -1,3 +1,2 @@
-File CSV Final : master_sppg_final_rapi.csv
+File CSV Final :filtered_nama_sppg_cleanser1_bersih.csv , cleaned_cleanser1_update.csv
 
-File GeoJSON Final : master_sppg_final.geojson
